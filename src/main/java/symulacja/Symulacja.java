@@ -12,7 +12,7 @@ import pole.Skaly;
 import pole.Woda;
 import java.util.LinkedList;
 import java.util.List;
-
+//xxxx
 
 public class Symulacja {
     private Mapa mapa;
