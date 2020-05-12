@@ -13,7 +13,8 @@ import pole.Woda;
 import java.util.LinkedList;
 import java.util.List;
 
-//jakies zmiany
+//jakies zmiany xdddddd
+//fajnykod
 
 public class Symulacja {
     private Mapa mapa;
